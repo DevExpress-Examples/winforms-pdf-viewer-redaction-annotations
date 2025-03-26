@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Document.Processor" Version="25.1.2-pre-25078" />
+    <PackageReference Include="DevExpress.Win.Design" Version="25.1.2-pre-25078" />
+    <PackageReference Include="DevExpress.Win.BonusSkins" Version="25.1.2-pre-25078" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Demo.pdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
