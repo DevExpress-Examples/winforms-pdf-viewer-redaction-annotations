@@ -29,7 +29,7 @@ Selection area coordinates are obtained through `MouseUp`, `MouseMove`, and `Mou
 
 * [How to: Use PDF Facade APIs to Manage Annotations in the DevExpress WinForms PDF Viewer](https://docs.devexpress.com/WindowsForms/403206/controls-and-libraries/pdf-viewer/examples/pdf-facade-api/how-to-organize-annotations)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-pdf-viewer-redaction-annotations&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-pdf-viewer-redaction-annotations&~~~was_helpful=no)
 
