@@ -2,14 +2,14 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net8.0-windows</TargetFramework>
+    <TargetFramework>net10.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DevExpress.Document.Processor" Version="25.1.2-pre-25078" />
-    <PackageReference Include="DevExpress.Win.Design" Version="25.1.2-pre-25078" />
-    <PackageReference Include="DevExpress.Win.BonusSkins" Version="25.1.2-pre-25078" />
+    <PackageReference Include="DevExpress.Document.Processor" Version="26.1.5" />
+    <PackageReference Include="DevExpress.Win.Design" Version="26.1.5" />
+    <PackageReference Include="DevExpress.Win.BonusSkins" Version="26.1.5" />
   </ItemGroup>
 
   <ItemGroup>
